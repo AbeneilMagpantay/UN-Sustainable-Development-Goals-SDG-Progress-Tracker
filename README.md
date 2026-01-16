@@ -288,15 +288,6 @@ Predictions are exported to:
 
 ---
 
-## Future Enhancements
-
-- [ ] Implement Apache Airflow for scheduled pipeline runs
-- [ ] Add dbt tests for referential integrity
-- [ ] Generate dbt documentation site
-- [ ] Deploy Power BI dashboard to Power BI Service
-
----
-
 ## Author
 
 **Abeneil Magpantay**  
