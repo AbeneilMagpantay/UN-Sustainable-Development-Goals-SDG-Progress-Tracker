@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Google Cloud credentials
+*.json
+!dbt_project.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mage
+mage_data/
+.mage_data/
+
+# dbt
+dbt_packages/
+target/
+logs/
+.user.yml
+
+# Data files (too large for git)
+data/*.csv
+data/*.parquet
+
+# Jupyter
+.ipynb_checkpoints/

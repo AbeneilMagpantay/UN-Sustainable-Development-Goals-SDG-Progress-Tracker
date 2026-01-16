@@ -1,0 +1,15 @@
+sdg_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: sdg-tracker-484407
+      dataset: staging
+      location: US
+      threads: 4
+      timeout_seconds: 300
+      keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+
+
+

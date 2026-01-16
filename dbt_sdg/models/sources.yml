@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: raw
+    database: sdg-tracker-484407
+    schema: raw
+    tables:
+      - name: sdg_goals
+        description: "17 UN Sustainable Development Goals"
+      - name: sdg_targets
+        description: "169 SDG targets under each goal"
+      - name: sdg_indicators
+        description: "251 measurable SDG indicators"
+      - name: sdg_geo_areas
+        description: "Countries and geographic regions"
+      - name: sdg_indicator_data
+        description: "Actual indicator values by country and year"
+      - name: wb_countries
+        description: "World Bank country metadata with region and income level"
+      - name: wb_indicators
+        description: "World Bank economic indicators (GDP, Population, etc.)"

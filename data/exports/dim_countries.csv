@@ -1,0 +1,461 @@
+country_code,country_name,region,income_level,capital_city,longitude,latitude
+1,World,Aggregates,Aggregates,,,
+2,Africa,Aggregates,Aggregates,,,
+97,European Union,Aggregates,Aggregates,,,
+580,Northern Mariana Islands,East Asia & Pacific,High income,Saipan,145.765,15.1935
+258,French Polynesia,East Asia & Pacific,High income,Papeete,-149.57,-17.535
+16,American Samoa,East Asia & Pacific,High income,Pago Pago,-170.691,-14.2846
+316,Guam,East Asia & Pacific,High income,Agana,144.794,13.4443
+585,Palau,East Asia & Pacific,High income,Koror,134.479,7.34194
+702,Singapore,East Asia & Pacific,High income,Singapore,103.85,1.28941
+520,Nauru,East Asia & Pacific,High income,Yaren District,166.920867,-0.5477
+96,Brunei Darussalam,East Asia & Pacific,High income,Bandar Seri Begawan,114.946,4.94199
+554,New Zealand,East Asia & Pacific,High income,Wellington,174.776,-41.2865
+36,Australia,East Asia & Pacific,High income,Canberra,149.129,-35.282
+392,Japan,East Asia & Pacific,High income,Tokyo,139.77,35.67
+540,New Caledonia,East Asia & Pacific,High income,Noum'ea,166.464,-22.2677
+616,Poland,Europe & Central Asia,High income,Warsaw,21.02,52.26
+203,Czechia,Europe & Central Asia,High income,Prague,14.4205,50.0878
+234,Faroe Islands,Europe & Central Asia,High income,Torshavn,-6.91181,61.8926
+246,Finland,Europe & Central Asia,High income,Helsinki,24.9525,60.1608
+276,Germany,Europe & Central Asia,High income,Berlin,13.4115,52.5235
+830,Channel Islands,Europe & Central Asia,High income,,,
+196,Cyprus,Europe & Central Asia,High income,Nicosia,33.3736,35.1676
+292,Gibraltar,Europe & Central Asia,High income,,,
+352,Iceland,Europe & Central Asia,High income,Reykjavik,-21.8952,64.1353
+40,Austria,Europe & Central Asia,High income,Vienna,16.3798,48.2201
+100,Bulgaria,Europe & Central Asia,High income,Sofia,23.3238,42.7105
+304,Greenland,Europe & Central Asia,High income,Nuuk,-51.7214,64.1836
+372,Ireland,Europe & Central Asia,High income,Dublin,-6.26749,53.3441
+300,Greece,Europe & Central Asia,High income,Athens,23.7166,37.9792
+620,Portugal,Europe & Central Asia,High income,Lisbon,-9.13552,38.7072
+642,Romania,Europe & Central Asia,High income,Bucharest,26.0979,44.4479
+191,Croatia,Europe & Central Asia,High income,Zagreb,15.9614,45.8069
+250,France,Europe & Central Asia,High income,Paris,2.35097,48.8566
+705,Slovenia,Europe & Central Asia,High income,Ljubljana,14.5044,46.0546
+492,Monaco,Europe & Central Asia,High income,Monaco,7.41891,43.7325
+20,Andorra,Europe & Central Asia,High income,Andorra la Vella,1.5218,42.5075
+428,Latvia,Europe & Central Asia,High income,Riga,24.1048,56.9465
+442,Luxembourg,Europe & Central Asia,High income,Luxembourg,6.1296,49.61
+56,Belgium,Europe & Central Asia,High income,Brussels,4.36761,50.8371
+643,Russian Federation,Europe & Central Asia,High income,Moscow,37.6176,55.7558
+752,Sweden,Europe & Central Asia,High income,Stockholm,18.0645,59.3327
+440,Lithuania,Europe & Central Asia,High income,Vilnius,25.2799,54.6896
+348,Hungary,Europe & Central Asia,High income,Budapest,19.0408,47.4984
+833,Isle of Man,Europe & Central Asia,High income,Douglas,-4.47928,54.1509
+380,Italy,Europe & Central Asia,High income,Rome,12.4823,41.8955
+578,Norway,Europe & Central Asia,High income,Oslo,10.7387,59.9138
+674,San Marino,Europe & Central Asia,High income,San Marino,12.4486,43.9322
+208,Denmark,Europe & Central Asia,High income,Copenhagen,12.5681,55.6763
+438,Liechtenstein,Europe & Central Asia,High income,Vaduz,9.52148,47.1411
+724,Spain,Europe & Central Asia,High income,Madrid,-3.70327,40.4167
+233,Estonia,Europe & Central Asia,High income,Tallinn,24.7586,59.4392
+756,Switzerland,Europe & Central Asia,High income,Bern,7.44821,46.948
+188,Costa Rica,Latin America & Caribbean ,High income,San Jose,-84.0089,9.63701
+136,Cayman Islands,Latin America & Caribbean ,High income,George Town,-81.3857,19.3022
+152,Chile,Latin America & Caribbean ,High income,Santiago,-70.6475,-33.475
+780,Trinidad and Tobago,Latin America & Caribbean ,High income,Port-of-Spain,-61.4789,10.6596
+28,Antigua and Barbuda,Latin America & Caribbean ,High income,Saint John's,-61.8456,17.1175
+52,Barbados,Latin America & Caribbean ,High income,Bridgetown,-59.6105,13.0935
+796,Turks and Caicos Islands,Latin America & Caribbean ,High income,Grand Turk,-71.141389,21.4602778
+591,Panama,Latin America & Caribbean ,High income,Panama City,-79.5188,8.99427
+328,Guyana,Latin America & Caribbean ,High income,Georgetown,-58.1548,6.80461
+858,Uruguay,Latin America & Caribbean ,High income,Montevideo,-56.0675,-34.8941
+533,Aruba,Latin America & Caribbean ,High income,Oranjestad,-70.0167,12.5167
+92,British Virgin Islands,Latin America & Caribbean ,High income,Road Town,-64.623056,18.431389
+534,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Philipsburg,,
+682,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,Riyadh,46.6977,24.6748
+784,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,Abu Dhabi,54.3705,24.4764
+470,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,Valletta,14.5189,35.9042
+48,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,Manama,50.5354,26.1921
+512,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,Muscat,58.5874,23.6105
+376,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,,35.2035,31.7717
+634,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,Doha,51.5082,25.2948
+414,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait City,47.9824,29.3721
+124,Canada,North America,High income,Ottawa,-75.6919,45.4215
+60,Bermuda,North America,High income,Hamilton,-64.706,32.3293
+690,Seychelles,Sub-Saharan Africa ,High income,Victoria,55.4466,-4.6309
+4,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Kabul,69.1761,34.5228
+760,Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Damascus,36.3119,33.5146
+728,South Sudan,Sub-Saharan Africa ,Low income,Juba,31.6,4.85
+466,Mali,Sub-Saharan Africa ,Low income,Bamako,-7.50034,13.5667
+562,Niger,Sub-Saharan Africa ,Low income,Niamey,2.1073,13.514
+148,Chad,Sub-Saharan Africa ,Low income,N'Djamena,15.0445,12.1048
+430,Liberia,Sub-Saharan Africa ,Low income,Monrovia,-10.7957,6.30039
+450,Madagascar,Sub-Saharan Africa ,Low income,Antananarivo,45.7167,-20.4667
+729,Sudan,Sub-Saharan Africa ,Low income,Khartoum,32.5363,15.5932
+140,Central African Republic,Sub-Saharan Africa ,Low income,Bangui,21.6407,5.63056
+454,Malawi,Sub-Saharan Africa ,Low income,Lilongwe,33.7703,-13.9899
+800,Uganda,Sub-Saharan Africa ,Low income,Kampala,32.5729,0.314269
+768,Togo,Sub-Saharan Africa ,Low income,Lome,1.2255,6.1228
+646,Rwanda,Sub-Saharan Africa ,Low income,Kigali,30.0587,-1.95325
+508,Mozambique,Sub-Saharan Africa ,Low income,Maputo,32.5713,-25.9664
+108,Burundi,Sub-Saharan Africa ,Low income,Bujumbura,29.3639,-3.3784
+624,Guinea-Bissau,Sub-Saharan Africa ,Low income,Bissau,-15.1804,11.8037
+694,Sierra Leone,Sub-Saharan Africa ,Low income,Freetown,-13.2134,8.4821
+854,Burkina Faso,Sub-Saharan Africa ,Low income,Ouagadougou,-1.53395,12.3605
+232,Eritrea,Sub-Saharan Africa ,Low income,Asmara,38.9183,15.3315
+116,Cambodia,East Asia & Pacific,Lower middle income,Phnom Penh,104.874,11.5556
+626,Timor-Leste,East Asia & Pacific,Lower middle income,Dili,125.567,-8.56667
+608,Philippines,East Asia & Pacific,Lower middle income,Manila,121.035,14.5515
+90,Solomon Islands,East Asia & Pacific,Lower middle income,Honiara,159.949,-9.42676
+548,Vanuatu,East Asia & Pacific,Lower middle income,Port-Vila,168.321,-17.7404
+598,Papua New Guinea,East Asia & Pacific,Lower middle income,Port Moresby,147.194,-9.47357
+104,Myanmar,East Asia & Pacific,Lower middle income,Naypyidaw,95.9562,21.914
+296,Kiribati,East Asia & Pacific,Lower middle income,Tarawa,172.979,1.32905
+704,Viet Nam,East Asia & Pacific,Lower middle income,Hanoi,105.825,21.0069
+860,Uzbekistan,Europe & Central Asia,Lower middle income,Tashkent,69.269,41.3052
+762,Tajikistan,Europe & Central Asia,Lower middle income,Dushanbe,68.7864,38.5878
+340,Honduras,Latin America & Caribbean ,Lower middle income,Tegucigalpa,-87.4667,15.1333
+558,Nicaragua,Latin America & Caribbean ,Lower middle income,Managua,-86.2734,12.1475
+332,Haiti,Latin America & Caribbean ,Lower middle income,Port-au-Prince,-72.3288,18.5392
+504,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Rabat,-6.8704,33.9905
+788,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunis,10.21,36.7899
+586,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Islamabad,72.8,30.5167
+262,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Djibouti,43.1425,11.5806
+422,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Beirut,35.5134,33.8872
+400,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Amman,35.9263,31.9497
+64,Bhutan,South Asia,Lower middle income,Thimphu,89.6177,27.5768
+50,Bangladesh,South Asia,Lower middle income,Dhaka,90.4113,23.7055
+524,Nepal,South Asia,Lower middle income,Kathmandu,85.3157,27.6939
+144,Sri Lanka,South Asia,Lower middle income,Colombo,79.8528,6.92148
+356,India,South Asia,Lower middle income,New Delhi,77.225,28.6353
+686,Senegal,Sub-Saharan Africa ,Lower middle income,Dakar,-17.4734,14.7247
+478,Mauritania,Sub-Saharan Africa ,Lower middle income,Nouakchott,-15.9824,18.2367
+324,Guinea,Sub-Saharan Africa ,Lower middle income,Conakry,-13.7,9.51667
+716,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Harare,31.0672,-17.8312
+174,Comoros,Sub-Saharan Africa ,Lower middle income,Moroni,43.2418,-11.6986
+894,Zambia,Sub-Saharan Africa ,Lower middle income,Lusaka,28.2937,-15.3982
+566,Nigeria,Sub-Saharan Africa ,Lower middle income,Abuja,7.48906,9.05804
+748,Eswatini,Sub-Saharan Africa ,Lower middle income,Mbabane,31.4659,-26.5225
+426,Lesotho,Sub-Saharan Africa ,Lower middle income,Maseru,27.7167,-29.5208
+516,Namibia,Sub-Saharan Africa ,Lower middle income,Windhoek,17.0931,-22.5648
+120,Cameroon,Sub-Saharan Africa ,Lower middle income,Yaounde,11.5174,3.8721
+678,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,Sao Tome,6.6071,0.20618
+24,Angola,Sub-Saharan Africa ,Lower middle income,Luanda,13.242,-8.81155
+204,Benin,Sub-Saharan Africa ,Lower middle income,Porto-Novo,2.6323,6.4779
+288,Ghana,Sub-Saharan Africa ,Lower middle income,Accra,-0.20795,5.57045
+404,Kenya,Sub-Saharan Africa ,Lower middle income,Nairobi,36.8126,-1.27975
+231,Ethiopia,Sub-Saharan Africa ,Not classified,Addis Ababa,38.7468,9.02274
+670,Saint Vincent and the Grenadines,Unknown,Unknown,,,
+99022,"FAO Major Fishing Area: Pacific, Southwest",Unknown,Unknown,,,
+99055,Large Marine Ecosystem: Gulf of Mexico,Unknown,Unknown,,,
+99065,Large Marine Ecosystem: South Brazil Shelf,Unknown,Unknown,,,
+99078,Large Marine Ecosystem: Guinea Current,Unknown,Unknown,,,
+99085,Large Marine Ecosystem: Gulf of Thailand,Unknown,Unknown,,,
+818,Egypt,Unknown,Unknown,,,
+530,Netherlands Antilles  [former],Unknown,Unknown,,,
+275,State of Palestine,Unknown,Unknown,,,
+918,European Union (EU) Institutions,Unknown,Unknown,,,
+99031,"FAO Major Fishing Area: Pacific, Southeast",Unknown,Unknown,,,
+99040,Residual/unallocated ODA: Western Asia and Northern Africa,Unknown,Unknown,,,
+836,United Republic of Tanzania (Zanzibar),Unknown,Unknown,,,
+99052,Large Marine Ecosystem: Gulf of Alaska,Unknown,Unknown,,,
+474,Martinique,Unknown,Unknown,,,
+703,Slovakia,Unknown,Unknown,,,
+5,South America,Unknown,Unknown,,,
+57,Micronesia,Unknown,Unknown,,,
+432,Landlocked developing countries (LLDCs),Unknown,Unknown,,,
+910,High income economies (WB),Unknown,Unknown,,,
+99033,World Marine Bunkers,Unknown,Unknown,,,
+99036,Residual/unallocated ODA: Eastern and South-eastern Asia,Unknown,Unknown,,,
+909,Eastern Southern South-Eastern Asia and Oceania (MDG),Unknown,Unknown,,,
+99059,Large Marine Ecosystem: Labrador - Newfoundland,Unknown,Unknown,,,
+99089,Large Marine Ecosystem: North Australian Shelf,Unknown,Unknown,,,
+99064,Large Marine Ecosystem: Patagonian Shelf,Unknown,Unknown,,,
+61,Polynesia,Unknown,Unknown,,,
+99027,"FAO Major Fishing Area: Indian Ocean, Western",Unknown,Unknown,,,
+99032,FAO Major Fishing Area: Mediterranean and Black Sea,Unknown,Unknown,,,
+99044,WHO South-East Asia,Unknown,Unknown,,,
+99071,Large Marine Ecosystem: Norwegian Sea,Unknown,Unknown,,,
+99096,Large Marine Ecosystem: New Zealand Shelf,Unknown,Unknown,,,
+99108,Large Marine Ecosystem: Kara Sea,Unknown,Unknown,,,
+44,Bahamas,Unknown,Unknown,,,
+99018,"FAO Major Fishing Area: Pacific, Eastern Central",Unknown,Unknown,,,
+99058,Large Marine Ecosystem: Scotian Shelf,Unknown,Unknown,,,
+99061,Large Marine Ecosystem: Pacific Central-American Coastal,Unknown,Unknown,,,
+99075,Large Marine Ecosystem: Iberian Coastal,Unknown,Unknown,,,
+862,Venezuela (Bolivarian Republic of),Unknown,Unknown,,,
+485,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Unknown,Unknown,,,
+738,Sub-Saharan Africa (inc. Sudan),Unknown,Unknown,,,
+908,Western Europe (ILO),Unknown,Unknown,,,
+99084,Large Marine Ecosystem: Bay of Bengal,Unknown,Unknown,,,
+14,Eastern Africa,Unknown,Unknown,,,
+127,Southern Asia (excluding India),Unknown,Unknown,,,
+99046,WHO Eastern Mediterranean,Unknown,Unknown,,,
+926,LLDC Europe,Unknown,Unknown,,,
+99072,Large Marine Ecosystem: North Sea,Unknown,Unknown,,,
+62,Central and Southern Asia,Unknown,Unknown,,,
+891,Serbia and Montenegro [former],Unknown,Unknown,,,
+254,French Guiana,Unknown,Unknown,,,
+334,Heard Island and McDonald Islands,Unknown,Unknown,,,
+680,Sark,Unknown,Unknown,,,
+514,"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",Unknown,Unknown,,,
+515,Developing regions,Unknown,Unknown,,,
+513,Europe and Northern America,Unknown,Unknown,,,
+902,Asia and the Pacific (ILO),Unknown,Unknown,,,
+922,Custom groupings of data providers,Unknown,Unknown,,,
+99087,Large Marine Ecosystem: Sulu-Celebes Sea,Unknown,Unknown,,,
+99100,Large Marine Ecosystem: Sea of Japan,Unknown,Unknown,,,
+99113,Large Marine Ecosystem: Hudson Bay Complex,Unknown,Unknown,,,
+831,Guernsey,Unknown,Unknown,,,
+792,Türkiye,Unknown,Unknown,,,
+722,Small island developing States (SIDS),Unknown,Unknown,,,
+827,United Kingdom (England and Wales),Unknown,Unknown,,,
+99054,Large Marine Ecosystem: Gulf of California,Unknown,Unknown,,,
+498,Republic of Moldova,Unknown,Unknown,,,
+202,Sub-Saharan Africa,Unknown,Unknown,,,
+39,Southern Europe,Unknown,Unknown,,,
+913,Low and middle income economies (WB),Unknown,Unknown,,,
+929,LDC Asia,Unknown,Unknown,,,
+238,Falkland Islands (Malvinas),Unknown,Unknown,,,
+312,Guadeloupe,Unknown,Unknown,,,
+904,Middle East and North Africa (ILO),Unknown,Unknown,,,
+370,Iraq (Kurdistan Region),Unknown,Unknown,,,
+99035,Residual/unallocated ODA: Central Asia and Southern Asia,Unknown,Unknown,,,
+577,Africa not elsewhere specified,Unknown,Unknown,,,
+927,LDC Africa,Unknown,Unknown,,,
+932,SIDS Americas,Unknown,Unknown,,,
+99098,Large Marine Ecosystem: Yellow Sea,Unknown,Unknown,,,
+99102,Large Marine Ecosystem: Sea of Okhotsk,Unknown,Unknown,,,
+99110,Large Marine Ecosystem: Faroe Plateau,Unknown,Unknown,,,
+907,Other regions (ILO),Unknown,Unknown,,,
+99045,WHO Europe,Unknown,Unknown,,,
+99053,Large Marine Ecosystem: California Current,Unknown,Unknown,,,
+99081,Large Marine Ecosystem: Somali Coastal Current,Unknown,Unknown,,,
+99106,Large Marine Ecosystem: East Siberian Sea,Unknown,Unknown,,,
+660,Anguilla,Unknown,Unknown,,,
+850,United States Virgin Islands,Unknown,Unknown,,,
+933,SIDS Asia,Unknown,Unknown,,,
+99057,Large Marine Ecosystem: Northeast U.S. Continental Shelf,Unknown,Unknown,,,
+99101,Large Marine Ecosystem: Oyashio Current,Unknown,Unknown,,,
+29,Caribbean,Unknown,Unknown,,,
+890,Yugoslavia [former],Unknown,Unknown,,,
+924,LLDC Americas,Unknown,Unknown,,,
+99066,Large Marine Ecosystem: East Brazil Shelf,Unknown,Unknown,,,
+744,Svalbard and Jan Mayen Islands,Unknown,Unknown,,,
+746,Northern Africa (exc. Sudan),Unknown,Unknown,,,
+829,United Kingdom (Scotland),Unknown,Unknown,,,
+527,Other non-OECD Oceania,Unknown,Unknown,,,
+99099,Large Marine Ecosystem: Kuroshio Current,Unknown,Unknown,,,
+184,Cook Islands,Unknown,Unknown,,,
+581,United States Minor Outlying Islands,Unknown,Unknown,,,
+30,Eastern Asia,Unknown,Unknown,,,
+53,Australia and New Zealand,Unknown,Unknown,,,
+99091,Large Marine Ecosystem: East Central Australian Shelf,Unknown,Unknown,,,
+364,Iran (Islamic Republic of),Unknown,Unknown,,,
+876,Wallis and Futuna Islands,Unknown,Unknown,,,
+142,Asia,Unknown,Unknown,,,
+99038,Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand,Unknown,Unknown,,,
+915,WTO Developing Member States,Unknown,Unknown,,,
+828,United Kingdom (Northern Ireland),Unknown,Unknown,,,
+928,LDC Americas,Unknown,Unknown,,,
+99083,Large Marine Ecosystem: Red Sea,Unknown,Unknown,,,
+344,"China, Hong Kong Special Administrative Region",Unknown,Unknown,,,
+659,Saint Kitts and Nevis,Unknown,Unknown,,,
+34,Southern Asia,Unknown,Unknown,,,
+531,Curaçao,Unknown,Unknown,,,
+99024,"FAO Major Fishing Area: Atlantic, Northeast",Unknown,Unknown,,,
+99067,Large Marine Ecosystem: North Brazil Shelf,Unknown,Unknown,,,
+384,Côte d'Ivoire,Unknown,Unknown,,,
+706,Somalia,Unknown,Unknown,,,
+9,Oceania,Unknown,Unknown,,,
+487,Other non-OECD Asia,Unknown,Unknown,,,
+99094,Large Marine Ecosystem: West Central Australian Shelf,Unknown,Unknown,,,
+162,Christmas Island,Unknown,Unknown,,,
+654,Saint Helena,Unknown,Unknown,,,
+666,Saint Pierre and Miquelon,Unknown,Unknown,,,
+663,Saint Martin (French Part),Unknown,Unknown,,,
+198,Organisation for Economic Co-operation and Development (OECD) Member States,Unknown,Unknown,,,
+593,Development Assistance Committee members (DAC),Unknown,Unknown,,,
+747,Northern Africa and Western Asia,Unknown,Unknown,,,
+923,LLDC Africa,Unknown,Unknown,,,
+99056,Large Marine Ecosystem: Southeast U.S. Continental Shelf,Unknown,Unknown,,,
+99103,Large Marine Ecosystem: West Bering Sea,Unknown,Unknown,,,
+630,Puerto Rico,Unknown,Unknown,,,
+905,Middle East (ILO),Unknown,Unknown,,,
+99047,WHO Western Pacific,Unknown,Unknown,,,
+925,LLDC Asia,Unknown,Unknown,,,
+99082,Large Marine Ecosystem: Arabian Sea,Unknown,Unknown,,,
+99086,Large Marine Ecosystem: South China Sea,Unknown,Unknown,,,
+99088,Large Marine Ecosystem: Indonesian Sea,Unknown,Unknown,,,
+914,Upper middle economies (WB),Unknown,Unknown,,,
+99104,Large Marine Ecosystem: Northern Bering - Chukchi Seas,Unknown,Unknown,,,
+99109,Large Marine Ecosystem: Iceland Shelf and Sea,Unknown,Unknown,,,
+151,Eastern Europe,Unknown,Unknown,,,
+155,Western Europe,Unknown,Unknown,,,
+99114,Large Marine Ecosystem: Central Arctic,Unknown,Unknown,,,
+408,Democratic People's Republic of Korea,Unknown,Unknown,,,
+612,Pitcairn,Unknown,Unknown,,,
+543,Oceania (exc. Australia and New Zealand),Unknown,Unknown,,,
+917,International Centers (FAO),Unknown,Unknown,,,
+99021,"FAO Major Fishing Area: Pacific, Western Central",Unknown,Unknown,,,
+99077,Large Marine Ecosystem: Canary Current,Unknown,Unknown,,,
+175,Mayotte,Unknown,Unknown,,,
+419,Latin America and the Caribbean,Unknown,Unknown,,,
+19,Americas,Unknown,Unknown,,,
+35,South-Eastern Asia,Unknown,Unknown,,,
+54,Melanesia,Unknown,Unknown,,,
+919,Regional Centres (FAO),Unknown,Unknown,,,
+99025,"FAO Major Fishing Area: Indian Ocean, Eastern",Unknown,Unknown,,,
+937,World (total) by MDG regions,Unknown,Unknown,,,
+99111,Large Marine Ecosystem: Antarctica,Unknown,Unknown,,,
+10,Antarctica,Unknown,Unknown,,,
+887,Yemen,Unknown,Unknown,,,
+99039,Residual/unallocated ODA: Sub-Saharan Africa,Unknown,Unknown,,,
+99041,Belgium and Luxembourg,Unknown,Unknown,,,
+99079,Large Marine Ecosystem: Benguela Current,Unknown,Unknown,,,
+753,Eastern and South-Eastern Asia,Unknown,Unknown,,,
+903,Central and Eastern Europe (ILO),Unknown,Unknown,,,
+921,ODA residual,Unknown,Unknown,,,
+99095,Large Marine Ecosystem: Northwest Australian Shelf,Unknown,Unknown,,,
+583,Micronesia (Federated States of),Unknown,Unknown,,,
+574,Norfolk Island,Unknown,Unknown,,,
+906,North America (ILO),Unknown,Unknown,,,
+99028,"FAO Major Fishing Area: Atlantic, Western Central",Unknown,Unknown,,,
+99030,"FAO Major Fishing Area: Atlantic, Southwest",Unknown,Unknown,,,
+99048,WHO Global,Unknown,Unknown,,,
+99068,Large Marine Ecosystem: Canadian Eastern Arctic - West Greenland,Unknown,Unknown,,,
+772,Tokelau,Unknown,Unknown,,,
+518,Eastern Asia (excluding Japan),Unknown,Unknown,,,
+99060,Large Marine Ecosystem: Insular Pacific-Hawaiian,Unknown,Unknown,,,
+528,Netherlands (Kingdom of the),Unknown,Unknown,,,
+901,Africa (ILO),Unknown,Unknown,,,
+951,Other Africa (IEA),Unknown,Unknown,,,
+99093,Large Marine Ecosystem: South West Australian Shelf,Unknown,Unknown,,,
+840,United States of America,Unknown,Unknown,,,
+17,Middle Africa,Unknown,Unknown,,,
+223,Eastern Asia (excluding Japan and China),Unknown,Unknown,,,
+736,Sudan [former],Unknown,Unknown,,,
+99029,"FAO Major Fishing Area: Atlantic, Eastern Central",Unknown,Unknown,,,
+636,Other non-OECD Americas,Unknown,Unknown,,,
+934,SIDS Oceania,Unknown,Unknown,,,
+99074,Large Marine Ecosystem: Celtic-Biscay Shelf,Unknown,Unknown,,,
+86,British Indian Ocean Territory,Unknown,Unknown,,,
+418,Lao People's Democratic Republic,Unknown,Unknown,,,
+570,Niue,Unknown,Unknown,,,
+15,Northern Africa,Unknown,Unknown,,,
+420,Latin America,Unknown,Unknown,,,
+920,Azores Islands,Unknown,Unknown,,,
+99042,WHO Africa,Unknown,Unknown,,,
+99043,WHO Americas,Unknown,Unknown,,,
+166,Cocos (Keeling) Islands,Unknown,Unknown,,,
+260,French Southern Territories,Unknown,Unknown,,,
+410,Republic of Korea,Unknown,Unknown,,,
+158,Other non-specified areas in Eastern Asia,Unknown,Unknown,,,
+912,Lower middle economies (WB),Unknown,Unknown,,,
+99023,"FAO Major Fishing Area: Atlantic, Northwest",Unknown,Unknown,,,
+99049,"Residual/unallocated ODA: Unspecified, developing countries",Unknown,Unknown,,,
+99076,Large Marine Ecosystem: Mediterranean Sea,Unknown,Unknown,,,
+99115,Large Marine Ecosystem: Aleutian Islands,Unknown,Unknown,,,
+248,Åland Islands,Unknown,Unknown,,,
+446,"China, Macao Special Administrative Region",Unknown,Unknown,,,
+938,Member States,Unknown,Unknown,,,
+952,Unallocated by country,Unknown,Unknown,,,
+99092,Large Marine Ecosystem: Southeast Australian Shelf,Unknown,Unknown,,,
+99107,Large Marine Ecosystem: Laptev Sea,Unknown,Unknown,,,
+180,Democratic Republic of the Congo,Unknown,Unknown,,,
+638,Réunion,Unknown,Unknown,,,
+931,SIDS Africa,Unknown,Unknown,,,
+99050,Residual/unallocated ODA: Northern America and Europe,Unknown,Unknown,,,
+655,Ascension,Unknown,Unknown,,,
+662,Saint Lucia,Unknown,Unknown,,,
+535,"Bonaire, Sint Eustatius and Saba",Unknown,Unknown,,,
+652,Saint Barthélemy,Unknown,Unknown,,,
+135,Caucasus and Central Asia,Unknown,Unknown,,,
+916,WTO Developed Member States,Unknown,Unknown,,,
+99112,Large Marine Ecosystem: Black Sea,Unknown,Unknown,,,
+143,Central Asia,Unknown,Unknown,,,
+150,Europe,Unknown,Unknown,,,
+369,Iraq (Central Iraq),Unknown,Unknown,,,
+239,South Georgia and the South Sandwich Islands,Unknown,Unknown,,,
+826,United Kingdom of Great Britain and Northern Ireland,Unknown,Unknown,,,
+13,Central America,Unknown,Unknown,,,
+154,Northern Europe,Unknown,Unknown,,,
+99062,Large Marine Ecosystem: Caribbean Sea,Unknown,Unknown,,,
+270,Gambia,Unknown,Unknown,,,
+500,Montserrat,Unknown,Unknown,,,
+911,Low income economies (WB),Unknown,Unknown,,,
+835,United Republic of Tanzania (Mainland),Unknown,Unknown,,,
+99105,Large Marine Ecosystem: Beaufort Sea,Unknown,Unknown,,,
+99034,World Aviation Bunkers,Unknown,Unknown,,,
+99063,Large Marine Ecosystem: Humboldt Current,Unknown,Unknown,,,
+417,Kyrgyzstan,Unknown,Unknown,,,
+199,Least Developed Countries (LDCs),Unknown,Unknown,,,
+99037,Residual/unallocated ODA: Latin America and the Caribbean,Unknown,Unknown,,,
+99051,Large Marine Ecosystem: East Bering Sea,Unknown,Unknown,,,
+99069,Large Marine Ecosystem: Greenland Sea,Unknown,Unknown,,,
+68,Bolivia (Plurinational State of),Unknown,Unknown,,,
+336,Holy See,Unknown,Unknown,,,
+18,Southern Africa,Unknown,Unknown,,,
+930,LDC Oceania,Unknown,Unknown,,,
+99070,Large Marine Ecosystem: Barents Sea,Unknown,Unknown,,,
+21,Northern America,Unknown,Unknown,,,
+145,Western Asia,Unknown,Unknown,,,
+889,World Trade Organization (WTO) Member States,Unknown,Unknown,,,
+99097,Large Marine Ecosystem: East China Sea,Unknown,Unknown,,,
+834,United Republic of Tanzania,Unknown,Unknown,,,
+732,Western Sahara,Unknown,Unknown,,,
+99026,"FAO Major Fishing Area: Atlantic, Southeast",Unknown,Unknown,,,
+935,World (total) by SDG regions,Unknown,Unknown,,,
+936,World (total) by continental regions,Unknown,Unknown,,,
+99080,Large Marine Ecosystem: Agulhas Current,Unknown,Unknown,,,
+74,Bouvet Island,Unknown,Unknown,,,
+832,Jersey,Unknown,Unknown,,,
+11,Western Africa,Unknown,Unknown,,,
+99020,"FAO Major Fishing Area: Pacific, Northwest",Unknown,Unknown,,,
+896,Areas not elsewhere specified,Unknown,Unknown,,,
+99073,Large Marine Ecosystem: Baltic Sea,Unknown,Unknown,,,
+99090,Large Marine Ecosystem: Northeast Australian Shelf,Unknown,Unknown,,,
+178,Congo,Unknown,Unknown,,,
+99019,"FAO Major Fishing Area: Pacific, Northeast",Unknown,Unknown,,,
+99116,Large Marine Ecosystem: Canadian High Arctic - North Greenland,Unknown,Unknown,,,
+496,Mongolia,East Asia & Pacific,Upper middle income,Ulaanbaatar,106.937,47.9129
+584,Marshall Islands,East Asia & Pacific,Upper middle income,Majuro,171.135,7.11046
+458,Malaysia,East Asia & Pacific,Upper middle income,Kuala Lumpur,101.684,3.12433
+156,China,East Asia & Pacific,Upper middle income,Beijing,116.286,40.0495
+798,Tuvalu,East Asia & Pacific,Upper middle income,Funafuti,179.089567,-8.6314877
+764,Thailand,East Asia & Pacific,Upper middle income,Bangkok,100.521,13.7308
+776,Tonga,East Asia & Pacific,Upper middle income,Nuku'alofa,-175.216,-21.136
+360,Indonesia,East Asia & Pacific,Upper middle income,Jakarta,106.83,-6.19752
+242,Fiji,East Asia & Pacific,Upper middle income,Suva,178.399,-18.1149
+882,Samoa,East Asia & Pacific,Upper middle income,Apia,-171.752,-13.8314
+31,Azerbaijan,Europe & Central Asia,Upper middle income,Baku,49.8932,40.3834
+688,Serbia,Europe & Central Asia,Upper middle income,Belgrade,20.4656,44.8024
+807,North Macedonia,Europe & Central Asia,Upper middle income,Skopje,21.4361,42.0024
+70,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,Sarajevo,18.4214,43.8607
+112,Belarus,Europe & Central Asia,Upper middle income,Minsk,27.5766,53.9678
+795,Turkmenistan,Europe & Central Asia,Upper middle income,Ashgabat,58.3794,37.9509
+804,Ukraine,Europe & Central Asia,Upper middle income,Kiev,30.5038,50.4536
+398,Kazakhstan,Europe & Central Asia,Upper middle income,Astana,71.4382,51.1879
+412,Kosovo,Europe & Central Asia,Upper middle income,Pristina,20.926,42.565
+268,Georgia,Europe & Central Asia,Upper middle income,Tbilisi,44.793,41.71
+499,Montenegro,Europe & Central Asia,Upper middle income,Podgorica,19.2595,42.4602
+8,Albania,Europe & Central Asia,Upper middle income,Tirane,19.8172,41.3317
+51,Armenia,Europe & Central Asia,Upper middle income,Yerevan,44.509,40.1596
+76,Brazil,Latin America & Caribbean ,Upper middle income,Brasilia,-47.9292,-15.7801
+222,El Salvador,Latin America & Caribbean ,Upper middle income,San Salvador,-89.2073,13.7034
+170,Colombia,Latin America & Caribbean ,Upper middle income,Bogota,-74.082,4.60987
+212,Dominica,Latin America & Caribbean ,Upper middle income,Roseau,-61.39,15.2976
+308,Grenada,Latin America & Caribbean ,Upper middle income,Saint George's,-61.7449,12.0653
+740,Suriname,Latin America & Caribbean ,Upper middle income,Paramaribo,-55.1679,5.8232
+600,Paraguay,Latin America & Caribbean ,Upper middle income,Asuncion,-57.6362,-25.3005
+192,Cuba,Latin America & Caribbean ,Upper middle income,Havana,-82.3667,23.1333
+484,Mexico,Latin America & Caribbean ,Upper middle income,Mexico City,-99.1276,19.427
+218,Ecuador,Latin America & Caribbean ,Upper middle income,Quito,-78.5243,-0.229498
+84,Belize,Latin America & Caribbean ,Upper middle income,Belmopan,-88.7713,17.2534
+388,Jamaica,Latin America & Caribbean ,Upper middle income,Kingston,-76.792,17.9927
+214,Dominican Republic,Latin America & Caribbean ,Upper middle income,Santo Domingo,-69.8908,18.479
+32,Argentina,Latin America & Caribbean ,Upper middle income,Buenos Aires,-58.4173,-34.6118
+320,Guatemala,Latin America & Caribbean ,Upper middle income,Guatemala City,-90.5328,14.6248
+604,Peru,Latin America & Caribbean ,Upper middle income,Lima,-77.0465,-12.0931
+368,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Baghdad,44.394,33.3302
+434,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tripoli,13.1072,32.8578
+12,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algiers,3.05097,36.7397
+462,Maldives,South Asia,Upper middle income,Male,73.5109,4.1742
+132,Cabo Verde,Sub-Saharan Africa ,Upper middle income,Praia,-23.5087,14.9218
+266,Gabon,Sub-Saharan Africa ,Upper middle income,Libreville,9.45162,0.38832
+480,Mauritius,Sub-Saharan Africa ,Upper middle income,Port Louis,57.4977,-20.1605
+226,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,Malabo,8.7741,3.7523
+710,South Africa,Sub-Saharan Africa ,Upper middle income,Pretoria,28.1871,-25.746
+72,Botswana,Sub-Saharan Africa ,Upper middle income,Gaborone,25.9201,-24.6544

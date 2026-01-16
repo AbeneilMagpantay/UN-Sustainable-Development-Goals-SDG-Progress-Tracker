@@ -1,0 +1,427 @@
+country_code,country_name,goal_code,region,income_level,value_latest,avg_yoy_change,data_points,prediction_2030_probability,prediction_2030_on_track,prediction_category
+1,World,1,Aggregates,Aggregates,131.0,2.0,2,0.8,1,On Track
+1,World,2,Aggregates,Aggregates,48.35,-17.630000000000003,5,0.0,0,
+100,Bulgaria,1,Europe & Central Asia,High income,31.275,-70644.49978377888,20,0.04,0,Off Track
+100,Bulgaria,2,Europe & Central Asia,High income,243.5716666666667,0.0,18,0.0,0,
+104,Myanmar,1,East Asia & Pacific,Lower middle income,31644454.89901584,1375845.8617081693,24,0.99,1,On Track
+104,Myanmar,2,East Asia & Pacific,Lower middle income,22.573333333333334,0.0,6,0.0,0,
+108,Burundi,1,Sub-Saharan Africa ,Low income,16408631.204279164,713418.7214822683,24,0.98,1,On Track
+108,Burundi,2,Sub-Saharan Africa ,Low income,19.4,2.7266666666666666,7,1.0,1,On Track
+11,Western Africa,1,Unknown,Unknown,0.0742,-0.0009086956521739131,24,0.01,0,Off Track
+11,Western Africa,2,Unknown,Unknown,45.86,-1.980000000000004,5,0.01,0,Off Track
+112,Belarus,1,Europe & Central Asia,Upper middle income,31.9958833125,-0.43061376902173915,24,0.0,0,
+112,Belarus,2,Europe & Central Asia,Upper middle income,70.19999999999999,0.0,1,0.0,0,
+116,Cambodia,1,East Asia & Pacific,Lower middle income,0.444601,-0.005584304101900458,24,0.03,0,Off Track
+116,Cambodia,2,East Asia & Pacific,Lower middle income,47.510555555555555,0.0,20,0.0,0,
+12,Algeria,1,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1168259.9865723187,50793.912199709805,24,1.0,1,On Track
+12,Algeria,2,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,40.38666666666666,0.0,1,0.01,0,Off Track
+120,Cameroon,1,Sub-Saharan Africa ,Lower middle income,0.269269,0.003149522230853205,24,0.9840000000000001,1,On Track
+120,Cameroon,2,Sub-Saharan Africa ,Lower middle income,52.59,-2.7366666666666646,8,0.0,0,
+124,Canada,1,North America,High income,25.80544,1.1209495652173913,24,1.0,1,On Track
+124,Canada,2,North America,High income,857.6383333333333,0.0,18,0.12,0,Off Track
+127,Southern Asia (excluding India),1,Unknown,Unknown,0.0212,-0.00023913043478260876,24,0.01,0,Off Track
+13,Central America,1,Unknown,Unknown,0.0027,-0.00017826086956521738,24,0.0,0,
+13,Central America,2,Unknown,Unknown,84.4,-0.009999999999990905,5,0.02,0,Off Track
+132,Cabo Verde,1,Sub-Saharan Africa ,Upper middle income,0.453243,-0.05560821739591292,24,0.013999999999999999,0,Off Track
+135,Caucasus and Central Asia,1,Unknown,Unknown,0.0115,-0.0029217391304347832,24,0.0,0,
+14,Eastern Africa,1,Unknown,Unknown,0.1554,-0.004891304347826087,24,0.01,0,Off Track
+14,Eastern Africa,2,Unknown,Unknown,34.86,-7.649999999999999,5,0.0,0,
+140,Central African Republic,1,Sub-Saharan Africa ,Low income,3.403648,0.13914160869565237,24,0.99,1,On Track
+140,Central African Republic,2,Sub-Saharan Africa ,Low income,27.580000000000002,0.0,1,0.0,0,
+142,Asia,1,Unknown,Unknown,0.0055,-0.00041304347826086953,24,0.0,0,
+142,Asia,2,Unknown,Unknown,66.11,0.12999999999999545,5,0.87,1,On Track
+143,Central Asia,1,Unknown,Unknown,0.0129,-0.0017956521739130433,24,0.0,0,
+143,Central Asia,2,Unknown,Unknown,88.26,0.0,5,0.0,0,
+144,Sri Lanka,1,South Asia,Lower middle income,0.0449,-0.0010287826557206768,24,0.07818181818181819,0,Off Track
+144,Sri Lanka,2,South Asia,Lower middle income,79.12666666666667,0.0,6,0.0,0,
+145,Western Asia,1,Unknown,Unknown,0.0359,0.0001652173913043482,24,0.98,1,On Track
+145,Western Asia,2,Unknown,Unknown,70.21,-6.810000000000002,5,0.0,0,
+148,Chad,1,Sub-Saharan Africa ,Low income,1.416933,-0.05259765217391285,24,0.0,0,
+148,Chad,2,Sub-Saharan Africa ,Low income,51.13888888888889,13.533333333333328,7,1.0,1,On Track
+15,Northern Africa,1,Unknown,Unknown,0.009,-0.0005434782608695652,24,0.0,0,
+15,Northern Africa,2,Unknown,Unknown,78.05,-0.010000000000005116,5,0.01,0,Off Track
+150,Europe,1,Unknown,Unknown,0.0216,-0.002543478260869565,24,0.0,0,
+150,Europe,2,Unknown,Unknown,72.96,0.6599999999999966,5,0.94,1,On Track
+151,Eastern Europe,1,Unknown,Unknown,0.024,-0.009878260869565217,24,0.0,0,
+151,Eastern Europe,2,Unknown,Unknown,71.75,-0.04000000000000625,5,0.0,0,
+152,Chile,1,Latin America & Caribbean ,High income,228502274.15048966,9934880.702131636,24,0.99,1,On Track
+152,Chile,2,Latin America & Caribbean ,High income,,0.0,5,0.02,0,Off Track
+155,Western Europe,2,Unknown,Unknown,90.89,0.0,5,0.0,0,
+156,China,1,East Asia & Pacific,Upper middle income,4.3e-05,-1.082739436108133,24,0.01,0,Off Track
+156,China,2,East Asia & Pacific,Upper middle income,86.24,23.193333333333335,7,0.99,1,On Track
+17,Middle Africa,1,Unknown,Unknown,0.1205,0.0015,24,0.97,1,On Track
+17,Middle Africa,2,Unknown,Unknown,50.7,-4.409999999999997,5,0.0,0,
+170,Colombia,1,Latin America & Caribbean ,Upper middle income,34645261.475764014,1506315.716170695,24,1.0,1,On Track
+170,Colombia,2,Latin America & Caribbean ,Upper middle income,68.32666666666667,4.36666666666666,7,0.98,1,On Track
+174,Comoros,1,Sub-Saharan Africa ,Lower middle income,244152.74432419654,10173.019930924927,25,0.9981818181818182,1,On Track
+174,Comoros,2,Sub-Saharan Africa ,Lower middle income,31.96,0.0,6,0.0,0,
+178,Congo,1,Unknown,Unknown,0.328567,-0.0013986956521737516,24,0.02,0,Off Track
+178,Congo,2,Unknown,Unknown,44.5,-5.119999999999999,7,0.01,0,Off Track
+18,Southern Africa,1,Unknown,Unknown,0.0064,-0.00023478260869565218,24,0.0,0,
+18,Southern Africa,2,Unknown,Unknown,69.65,-2.019999999999996,5,0.0,0,
+180,Democratic Republic of the Congo,1,Unknown,Unknown,1.269964,0.04705513043478263,24,1.0,1,On Track
+180,Democratic Republic of the Congo,2,Unknown,Unknown,31.435,-2.3000000000000025,7,0.01,0,Off Track
+184,Cook Islands,1,Unknown,Unknown,0.528081,0.01858742105263157,20,1.0,1,On Track
+188,Costa Rica,1,Latin America & Caribbean ,High income,17.322222222222223,0.7214800509223442,25,0.99,1,On Track
+188,Costa Rica,2,Latin America & Caribbean ,High income,71.39,0.0,6,0.0,0,
+19,Americas,2,Unknown,Unknown,79.47,-2.719999999999999,5,0.01,0,Off Track
+191,Croatia,1,Europe & Central Asia,High income,105.77101666666668,4.598663159270277,24,1.0,1,On Track
+191,Croatia,2,Europe & Central Asia,High income,172.96,0.0,18,0.0,0,
+192,Cuba,1,Latin America & Caribbean ,Upper middle income,0.006222,-0.0009768179575489326,23,0.05,0,Off Track
+192,Cuba,2,Latin America & Caribbean ,Upper middle income,58.559999999999995,-13.210000000000015,2,0.0,0,
+196,Cyprus,1,Europe & Central Asia,High income,13.46018,-0.13893789472707394,20,0.09,0,Off Track
+196,Cyprus,2,Europe & Central Asia,High income,262.4216666666667,0.0,18,0.0,0,
+199,Least Developed Countries (LDCs),1,Unknown,Unknown,0.1199,-0.00237391304347826,24,0.01,0,Off Track
+199,Least Developed Countries (LDCs),2,Unknown,Unknown,44.81,-6.289999999999999,5,0.01,0,Off Track
+2,Africa,1,Aggregates,Aggregates,0.0624,-0.00035652173913043475,24,0.0,0,
+2,Africa,2,Aggregates,Aggregates,48.07,-7.030000000000001,5,0.0,0,
+20,Andorra,1,Europe & Central Asia,High income,11.4625,0.0,1,0.13,0,Off Track
+202,Sub-Saharan Africa,1,Unknown,Unknown,26.0,1.0791958333333334,25,1.0,1,On Track
+202,Sub-Saharan Africa,2,Unknown,Unknown,30.915,-18.215000000000003,5,0.0,0,
+203,Czechia,1,Europe & Central Asia,High income,12.15,0.08749999997000976,21,0.99,1,On Track
+203,Czechia,2,Europe & Central Asia,High income,188.06833333333333,0.0,18,0.0,0,
+204,Benin,1,Sub-Saharan Africa ,Lower middle income,0.453112,-0.03919056534187907,24,0.0,0,
+204,Benin,2,Sub-Saharan Africa ,Lower middle income,18.173333333333332,0.0,20,0.0,0,
+208,Denmark,1,Europe & Central Asia,High income,17.525,0.7591086956521739,24,0.99,1,On Track
+208,Denmark,2,Europe & Central Asia,High income,416.96,0.0,18,0.02,0,Off Track
+21,Northern America,2,Unknown,Unknown,82.62,10.320000000000007,5,1.0,1,On Track
+212,Dominica,1,Latin America & Caribbean ,Upper middle income,0.006868,-0.0035110952241662005,22,0.03888888888888889,0,Off Track
+214,Dominican Republic,1,Latin America & Caribbean ,Upper middle income,11.5053265,0.4956915434782609,24,0.98,1,On Track
+214,Dominican Republic,2,Latin America & Caribbean ,Upper middle income,66.62666666666667,2.531111111111109,9,0.99,1,On Track
+218,Ecuador,1,Latin America & Caribbean ,Upper middle income,48.983333333333334,2.0298082639152804,25,1.0,1,On Track
+218,Ecuador,2,Latin America & Caribbean ,Upper middle income,54.51,0.0,6,0.0,0,
+222,El Salvador,1,Latin America & Caribbean ,Upper middle income,1579690.8014094394,68682.20149128001,24,0.9940000000000001,1,On Track
+222,El Salvador,2,Latin America & Caribbean ,Upper middle income,54.9,-19.126666666666658,2,0.0,0,
+223,Eastern Asia (excluding Japan and China),1,Unknown,Unknown,0.1043,-0.0009304347826086958,24,0.0,0,
+226,Equatorial Guinea,1,Sub-Saharan Africa ,Upper middle income,0.020208,-0.03265665217545499,24,0.06888888888888889,0,Off Track
+231,Ethiopia,1,Sub-Saharan Africa ,Not classified,0.640041,-0.0677101314560066,24,0.01,0,Off Track
+231,Ethiopia,2,Sub-Saharan Africa ,Not classified,24.08,0.0,20,0.0,0,
+232,Eritrea,1,Sub-Saharan Africa ,Low income,0.908018,-0.3538989545454545,23,0.0,0,
+233,Estonia,1,Europe & Central Asia,High income,30.376795714285716,0.48460931972738497,22,0.99,1,On Track
+233,Estonia,2,Europe & Central Asia,High income,293.8066666666667,0.0,18,0.0,0,
+24,Angola,1,Sub-Saharan Africa ,Lower middle income,0.07027,-0.03414008729144801,24,0.0,0,
+24,Angola,2,Sub-Saharan Africa ,Lower middle income,29.946666666666662,0.0,1,0.0,0,
+242,Fiji,1,East Asia & Pacific,Upper middle income,0.256004,0.004537869320736955,24,0.99,1,On Track
+242,Fiji,2,East Asia & Pacific,Upper middle income,60.12666666666667,0.0,1,0.0,0,
+246,Finland,1,Europe & Central Asia,High income,16.75,0.6972166666581826,25,1.0,1,On Track
+246,Finland,2,Europe & Central Asia,High income,230.31666666666666,0.0,18,0.0,0,
+250,France,1,Europe & Central Asia,High income,517989571.7369895,22521285.72742998,24,0.99,1,On Track
+250,France,2,Europe & Central Asia,High income,336.63166666666666,0.0,18,0.0,0,
+262,Djibouti,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.20332,0.029425652173913065,24,0.98,1,On Track
+266,Gabon,1,Sub-Saharan Africa ,Upper middle income,0.022647,-0.0006984782608695074,24,0.02142857142857143,0,Off Track
+266,Gabon,2,Sub-Saharan Africa ,Upper middle income,56.25,0.0,6,0.01,0,Off Track
+268,Georgia,1,Europe & Central Asia,Upper middle income,23392.392704865746,1017.0291446463481,24,1.0,1,On Track
+268,Georgia,2,Europe & Central Asia,Upper middle income,25.51666666666667,0.0,18,0.01,0,Off Track
+270,Gambia,1,Unknown,Unknown,32459232.047209248,1411270.9385360985,24,0.97,1,On Track
+270,Gambia,2,Unknown,Unknown,23.826666666666664,6.476666666666665,3,1.0,1,On Track
+275,State of Palestine,1,Unknown,Unknown,3.998956,0.048810130416071934,24,0.99,1,On Track
+275,State of Palestine,2,Unknown,Unknown,52.45333333333334,0.0,6,0.0,0,
+276,Germany,1,Europe & Central Asia,High income,21.15,0.880504166666667,25,1.0,1,On Track
+276,Germany,2,Europe & Central Asia,High income,353.5966666666667,0.0,18,0.0,0,
+28,Antigua and Barbuda,1,Latin America & Caribbean ,High income,0.072176,0.003487285488517955,15,0.9788888888888888,1,On Track
+288,Ghana,1,Sub-Saharan Africa ,Lower middle income,212141.71214431938,8839.173868137257,25,0.99,1,On Track
+288,Ghana,2,Sub-Saharan Africa ,Lower middle income,43.025000000000006,-5.653333333333332,9,0.012,0,Off Track
+29,Caribbean,1,Unknown,Unknown,0.0415,0.00013913043478260876,24,0.93,1,On Track
+29,Caribbean,2,Unknown,Unknown,60.65,0.0,5,0.0,0,
+296,Kiribati,1,East Asia & Pacific,Lower middle income,2.660241,0.11291752174518939,24,0.9540000000000001,1,On Track
+296,Kiribati,2,East Asia & Pacific,Lower middle income,9.433333333333334,-18.906666666666666,2,0.0,0,
+30,Eastern Asia,1,Unknown,Unknown,0.0001,-0.0001,24,0.02,0,Off Track
+30,Eastern Asia,2,Unknown,Unknown,86.2,1.960000000000008,5,0.97,1,On Track
+300,Greece,1,Europe & Central Asia,High income,26.450000000000003,0.7666238095238097,22,1.0,1,On Track
+300,Greece,2,Europe & Central Asia,High income,107.61833333333334,0.0,20,0.0,0,
+308,Grenada,1,Latin America & Caribbean ,Upper middle income,0.068077,0.0026097143599180654,22,0.9988888888888888,1,On Track
+31,Azerbaijan,1,Europe & Central Asia,Upper middle income,29.823301000000004,1.2771894782608697,24,0.99,1,On Track
+31,Azerbaijan,2,Europe & Central Asia,Upper middle income,35.973333333333336,0.0,6,0.0,0,
+32,Argentina,1,Latin America & Caribbean ,Upper middle income,20.8502845,0.9064990541209346,24,0.97,1,On Track
+320,Guatemala,1,Latin America & Caribbean ,Upper middle income,19343543.76646957,841023.6307316332,24,1.0,1,On Track
+320,Guatemala,2,Latin America & Caribbean ,Upper middle income,77.8,0.0,6,0.01,0,Off Track
+324,Guinea,1,Sub-Saharan Africa ,Lower middle income,0.573382,-0.01085791304347822,24,0.01,0,Off Track
+324,Guinea,2,Sub-Saharan Africa ,Lower middle income,39.25,3.8999999999999995,8,1.0,1,On Track
+328,Guyana,1,Latin America & Caribbean ,High income,0.017686,-0.22795465230692988,24,0.03,0,Off Track
+328,Guyana,2,Latin America & Caribbean ,High income,41.31333333333333,-4.680000000000007,3,0.01,0,Off Track
+332,Haiti,1,Latin America & Caribbean ,Lower middle income,0.961052,-0.0008441304347826552,24,0.01,0,Off Track
+332,Haiti,2,Latin America & Caribbean ,Lower middle income,19.933333333333337,-2.203333333333333,3,0.0,0,
+34,Southern Asia,1,Unknown,Unknown,0.0067,-0.0007565217391304347,24,0.0,0,
+34,Southern Asia,2,Unknown,Unknown,46.27,1.5800000000000054,5,1.0,1,On Track
+340,Honduras,1,Latin America & Caribbean ,Lower middle income,32.1617585,1.3561540650996426,24,0.99,1,On Track
+340,Honduras,2,Latin America & Caribbean ,Lower middle income,72.76,-0.7900000000000027,8,0.01,0,Off Track
+348,Hungary,1,Europe & Central Asia,High income,16.7865,0.17297368421052575,20,0.98,1,On Track
+348,Hungary,2,Europe & Central Asia,High income,253.13833333333332,0.0,18,0.0,0,
+35,South-Eastern Asia,1,Unknown,Unknown,0.0059,-0.0005304347826086957,24,0.0,0,
+35,South-Eastern Asia,2,Unknown,Unknown,79.51,-2.549999999999997,5,0.01,0,Off Track
+352,Iceland,1,Europe & Central Asia,High income,0.0514,-0.49742999999999993,21,0.01,0,Off Track
+356,India,1,South Asia,Lower middle income,0.007879,-0.004603174146901121,24,0.01,0,Off Track
+356,India,2,South Asia,Lower middle income,9.368333333333334,0.0,20,0.01,0,Off Track
+36,Australia,1,East Asia & Pacific,High income,39289636.81444386,1708245.0759410367,24,0.99,1,On Track
+360,Indonesia,1,East Asia & Pacific,Upper middle income,9.0,-0.02562519907951355,25,0.07,0,Off Track
+360,Indonesia,2,East Asia & Pacific,Upper middle income,74.68666666666667,0.0,20,0.01,0,Off Track
+364,Iran (Islamic Republic of),1,Unknown,Unknown,0.00092,-5.3910585201305145e-06,24,0.11,0,Off Track
+364,Iran (Islamic Republic of),2,Unknown,Unknown,81.27,0.0,6,0.02,0,Off Track
+368,Iraq,1,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.05155,0.0018763042735224181,24,0.9888888888888888,1,On Track
+368,Iraq,2,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,45.14666666666667,0.0,1,0.002,0,Off Track
+372,Ireland,1,Europe & Central Asia,High income,16.50428,0.7164773913156858,24,1.0,1,On Track
+372,Ireland,2,Europe & Central Asia,High income,257.31,0.0,18,0.0,0,
+376,Israel,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0195,0.00030000000000000165,2,0.88,1,On Track
+376,Israel,2,"Middle East, North Africa, Afghanistan & Pakistan",High income,,0.0,5,0.0,0,
+380,Italy,1,Europe & Central Asia,High income,23.975,0.9986875000000048,25,1.0,1,On Track
+380,Italy,2,Europe & Central Asia,High income,359.74666666666667,0.0,18,0.0,0,
+384,Côte d'Ivoire,1,Unknown,Unknown,0.20193,0.005850782609398148,24,0.9788888888888888,1,On Track
+384,Côte d'Ivoire,2,Unknown,Unknown,40.48,0.0,20,0.01,0,Off Track
+388,Jamaica,1,Latin America & Caribbean ,Upper middle income,265458.15723843145,11541.245275888405,24,1.0,1,On Track
+388,Jamaica,2,Latin America & Caribbean ,Upper middle income,52.13333333333333,0.0,1,0.0,0,
+39,Southern Europe,1,Unknown,Unknown,0.0178,-0.0025130434782608697,24,0.02,0,Off Track
+39,Southern Europe,2,Unknown,Unknown,77.64,0.01999999999999602,5,0.91,1,On Track
+392,Japan,1,East Asia & Pacific,High income,79613297.28197691,3461447.707646822,24,0.99,1,On Track
+398,Kazakhstan,1,Europe & Central Asia,Upper middle income,2.6021725,0.11069932609857262,24,0.99,1,On Track
+398,Kazakhstan,2,Europe & Central Asia,Upper middle income,88.02,0.0,6,0.02,0,Off Track
+4,Afghanistan,1,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4.133127,0.1661979542636696,23,0.9740000000000001,1,On Track
+4,Afghanistan,2,"Middle East, North Africa, Afghanistan & Pakistan",Low income,30.28,0.0,6,0.0,0,
+40,Austria,1,Europe & Central Asia,High income,15.26146,0.6632069563797715,24,1.0,1,On Track
+40,Austria,2,Europe & Central Asia,High income,214.80833333333334,0.0,18,0.0,0,
+400,Jordan,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1212841.0474818696,52732.14715182041,24,1.0,1,On Track
+400,Jordan,2,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,46.725,-9.45825396825397,9,0.0,0,
+404,Kenya,1,Sub-Saharan Africa ,Lower middle income,0.0,-0.03155879163144467,25,0.028181818181818183,0,Off Track
+404,Kenya,2,Sub-Saharan Africa ,Lower middle income,38.62499999999999,0.0,6,0.0,0,
+408,Democratic People's Republic of Korea,1,Unknown,Unknown,0.027055,-0.016327136363636363,23,0.0,0,
+408,Democratic People's Republic of Korea,2,Unknown,Unknown,46.1,0.0,1,0.01,0,Off Track
+410,Republic of Korea,1,East Asia & Pacific,High income,0.0166,-1081792.0623513982,19,0.05,0,Off Track
+412,Kosovo,1,Europe & Central Asia,Upper middle income,0.297335,0.0006265714285710996,15,0.94,1,On Track
+414,Kuwait,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0017,-0.9746899159663869,18,0.0,0,
+417,Kyrgyzstan,1,Unknown,Unknown,69042.98312576018,3001.784728772169,24,0.99,1,On Track
+417,Kyrgyzstan,2,Unknown,Unknown,87.9,11.613333333333333,8,0.98,1,On Track
+418,Lao People's Democratic Republic,1,Unknown,Unknown,0.612465,-0.027545912387431978,24,0.01,0,Off Track
+418,Lao People's Democratic Republic,2,Unknown,Unknown,73.37,0.0,6,0.0,0,
+419,Latin America and the Caribbean,1,Unknown,Unknown,22.0,0.9163791666666666,25,1.0,1,On Track
+419,Latin America and the Caribbean,2,Unknown,Unknown,77.47,-4.719999999999999,5,0.02,0,Off Track
+422,Lebanon,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1.974101,0.08383554545479997,23,1.0,1,On Track
+422,Lebanon,2,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,27.33888888888889,0.0,5,0.0,0,
+426,Lesotho,1,Sub-Saharan Africa ,Lower middle income,0.845152,0.013266521813434105,24,0.94,1,On Track
+426,Lesotho,2,Sub-Saharan Africa ,Lower middle income,15.668750000000001,3.3533333333333326,8,1.0,1,On Track
+428,Latvia,1,Europe & Central Asia,High income,22.325000000000003,0.1462500000000002,21,0.99,1,On Track
+428,Latvia,2,Europe & Central Asia,High income,212.08499999999998,0.0,18,0.0,0,
+430,Liberia,1,Sub-Saharan Africa ,Low income,2.424636,0.048780956669994026,24,0.98,1,On Track
+430,Liberia,2,Sub-Saharan Africa ,Low income,33.89,-7.563333333333335,8,0.0,0,
+432,Landlocked developing countries (LLDCs),1,Unknown,Unknown,0.0948,-0.004526086956521739,24,0.01,0,Off Track
+432,Landlocked developing countries (LLDCs),2,Unknown,Unknown,49.43,-14.830000000000005,5,0.0,0,
+434,Libya,1,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0.059059,0.003176166666666486,19,0.99,1,On Track
+440,Lithuania,1,Europe & Central Asia,High income,35.08507777777778,0.7676356725146251,20,0.99,1,On Track
+440,Lithuania,2,Europe & Central Asia,High income,165.48000000000002,0.0,18,0.0,0,
+442,Luxembourg,1,Europe & Central Asia,High income,20.725,0.9369000000000001,23,1.0,1,On Track
+442,Luxembourg,2,Europe & Central Asia,High income,213.42333333333335,0.0,18,0.0,0,
+450,Madagascar,1,Sub-Saharan Africa ,Low income,1.292068,0.030799044316271118,24,0.91,1,On Track
+450,Madagascar,2,Sub-Saharan Africa ,Low income,40.27,2.0799999999999983,7,1.0,1,On Track
+454,Malawi,1,Sub-Saharan Africa ,Low income,2.332019,-0.1509894782588369,24,0.0,0,
+454,Malawi,2,Sub-Saharan Africa ,Low income,53.01,0.0,20,0.02,0,Off Track
+458,Malaysia,1,East Asia & Pacific,Upper middle income,0.001321,4.795626939638801e-05,24,0.97,1,On Track
+458,Malaysia,2,East Asia & Pacific,Upper middle income,62.94,0.0,5,0.0,0,
+462,Maldives,1,South Asia,Upper middle income,469631.77819396585,20418.758037389816,24,0.9981818181818182,1,On Track
+462,Maldives,2,South Asia,Upper middle income,72.28666666666668,23.360000000000007,2,0.97,1,On Track
+466,Mali,1,Sub-Saharan Africa ,Low income,1.336076,-0.009613260915334272,24,0.06,0,Off Track
+466,Mali,2,Sub-Saharan Africa ,Low income,20.76142857142857,0.0,20,0.0,0,
+470,Malta,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,17.140340000000002,0.14949157894736848,20,0.99,1,On Track
+470,Malta,2,"Middle East, North Africa, Afghanistan & Pakistan",High income,178.00333333333333,0.0,18,0.0,0,
+478,Mauritania,1,Sub-Saharan Africa ,Lower middle income,0.632052,0.006854695652173955,24,0.98,1,On Track
+478,Mauritania,2,Sub-Saharan Africa ,Lower middle income,53.43,0.0,6,0.0,0,
+48,Bahrain,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0,-6.842105263085853e-06,20,0.02142857142857143,0,Off Track
+480,Mauritius,1,Sub-Saharan Africa ,Upper middle income,139917.83355090267,6083.380173517513,24,1.0,1,On Track
+480,Mauritius,2,Sub-Saharan Africa ,Upper middle income,80.7,0.0,5,0.01,0,Off Track
+484,Mexico,1,Latin America & Caribbean ,Upper middle income,223329039.21233943,9709958.226587819,24,1.0,1,On Track
+484,Mexico,2,Latin America & Caribbean ,Upper middle income,61.266666666666666,0.0,1,0.0,0,
+492,Monaco,1,Europe & Central Asia,High income,0.0623,-4.632486363636363,3,0.03,0,Off Track
+496,Mongolia,1,East Asia & Pacific,Upper middle income,13047758.644390916,567293.727993692,24,0.99,1,On Track
+496,Mongolia,2,East Asia & Pacific,Upper middle income,68.1,-1.9433333333333387,8,0.0,0,
+498,Republic of Moldova,1,Unknown,Unknown,0.142515,-0.03749908695665553,24,0.0014285714285714286,0,Off Track
+498,Republic of Moldova,2,Unknown,Unknown,78.95,0.0,6,0.0,0,
+499,Montenegro,1,Europe & Central Asia,Upper middle income,8.0834972,-79964.908695245,19,0.03,0,Off Track
+499,Montenegro,2,Europe & Central Asia,Upper middle income,66.36666666666666,-3.2533333333333303,7,0.0,0,
+5,South America,1,Unknown,Unknown,0.0015,-0.0001608695652173913,24,0.0,0,
+5,South America,2,Unknown,Unknown,75.31,-3.6700000000000017,5,0.02,0,Off Track
+50,Bangladesh,1,South Asia,Lower middle income,0.079658,-0.013864160664434909,24,0.01,0,Off Track
+50,Bangladesh,2,South Asia,Lower middle income,40.455625,3.1911111111111103,9,1.0,1,On Track
+500,Montserrat,1,Unknown,Unknown,7.851648,0.3636361875,17,0.99,1,On Track
+504,Morocco,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,87017829.41964301,3783383.5521113705,24,1.0,1,On Track
+504,Morocco,2,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,75.63,0.0,5,0.01,0,Off Track
+508,Mozambique,1,Sub-Saharan Africa ,Low income,2.517943,-0.024585498398490713,24,0.02,0,Off Track
+508,Mozambique,2,Sub-Saharan Africa ,Low income,20.8,0.0,6,0.0,0,
+51,Armenia,1,Europe & Central Asia,Upper middle income,135893.0139073752,5908.327501320661,24,1.0,1,On Track
+51,Armenia,2,Europe & Central Asia,Upper middle income,83.13,-9.156666666666673,8,0.013333333333333332,0,Off Track
+512,Oman,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.000545,-0.0002886,11,0.0,0,
+513,Europe and Northern America,1,Unknown,Unknown,30.0,1.0,2,0.99,1,On Track
+513,Europe and Northern America,2,Unknown,Unknown,78.97,6.670000000000002,5,1.0,1,On Track
+514,"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",1,Unknown,Unknown,0.0216,-0.002543478260869565,24,0.0,0,
+515,Developing regions,1,Unknown,Unknown,0.3543,-0.012778260869565216,24,0.0,0,
+516,Namibia,1,Sub-Saharan Africa ,Lower middle income,130513.15500408757,5674.460603134242,24,0.99,1,On Track
+516,Namibia,2,Sub-Saharan Africa ,Lower middle income,62.6,4.206666666666667,7,1.0,1,On Track
+52,Barbados,1,Latin America & Caribbean ,High income,1.0,0.05875752894601593,18,0.99,1,On Track
+520,Nauru,1,East Asia & Pacific,High income,1.714179,0.06752199999993008,19,0.9840000000000001,1,On Track
+520,Nauru,2,East Asia & Pacific,High income,49.1375,0.0,1,0.0,0,
+524,Nepal,1,South Asia,Lower middle income,0.279376,-0.014872775416543473,24,0.0,0,
+524,Nepal,2,South Asia,Lower middle income,37.81058823529412,0.0,20,0.02,0,Off Track
+528,Netherlands (Kingdom of the),1,Unknown,Unknown,15.474999999999998,0.64235,25,1.0,1,On Track
+528,Netherlands (Kingdom of the),2,Unknown,Unknown,422.6616666666667,0.0,18,0.02,0,Off Track
+53,Australia and New Zealand,1,Unknown,Unknown,2.0,0.0,2,0.0,0,
+53,Australia and New Zealand,2,Unknown,Unknown,,0.0,5,0.0,0,
+54,Melanesia,1,Unknown,Unknown,0.1046,-0.02012173913043478,24,0.01,0,Off Track
+54,Melanesia,2,Unknown,Unknown,61.3,0.0,5,0.0,0,
+543,Oceania (exc. Australia and New Zealand),1,Unknown,Unknown,12.0,0.0,2,0.0,0,
+543,Oceania (exc. Australia and New Zealand),2,Unknown,Unknown,47.25,0.0,5,0.0,0,
+548,Vanuatu,1,East Asia & Pacific,Lower middle income,1.151679,0.04091900001874466,24,1.0,1,On Track
+548,Vanuatu,2,East Asia & Pacific,Lower middle income,28.41875,0.0,5,0.0,0,
+554,New Zealand,1,East Asia & Pacific,High income,606498253.8267382,28880869.229073245,22,1.0,1,On Track
+558,Nicaragua,1,Latin America & Caribbean ,Lower middle income,0.320454,-0.049538608674984934,24,0.024,0,Off Track
+558,Nicaragua,2,Latin America & Caribbean ,Lower middle income,76.33,0.0,5,0.01,0,Off Track
+56,Belgium,1,Europe & Central Asia,High income,18.724999999999998,0.7790166666641559,25,1.0,1,On Track
+56,Belgium,2,Europe & Central Asia,High income,555.1883333333334,0.0,18,0.02,0,Off Track
+562,Niger,1,Sub-Saharan Africa ,Low income,56311.88964815944,2346.267787422849,25,0.99,1,On Track
+562,Niger,2,Sub-Saharan Africa ,Low income,5.16,0.0,20,0.0,0,
+566,Nigeria,1,Sub-Saharan Africa ,Lower middle income,0.16305,-0.0013241353242293649,24,0.02,0,Off Track
+566,Nigeria,2,Sub-Saharan Africa ,Lower middle income,8.493333333333332,0.0,20,0.0,0,
+57,Micronesia,1,Unknown,Unknown,0.4907,-0.11175217391304346,24,0.01,0,Off Track
+578,Norway,1,Europe & Central Asia,High income,12.450800000000001,0.5401130435096896,24,1.0,1,On Track
+583,Micronesia (Federated States of),1,Unknown,Unknown,0.520568,-0.15344407249698586,24,0.01,0,Off Track
+584,Marshall Islands,1,East Asia & Pacific,Upper middle income,2.954314,-0.015508954550816932,23,0.09,0,Off Track
+584,Marshall Islands,2,East Asia & Pacific,Upper middle income,34.25333333333334,0.0,1,0.0,0,
+585,Palau,1,East Asia & Pacific,High income,0.939362,-0.04970927272965624,23,0.03,0,Off Track
+586,Pakistan,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.105924,0.0028888248455185505,24,0.95,1,On Track
+586,Pakistan,2,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,53.98,-3.440000000000005,7,0.01,0,Off Track
+591,Panama,1,Latin America & Caribbean ,High income,3278078.889116513,142524.3446856744,24,1.0,1,On Track
+591,Panama,2,Latin America & Caribbean ,High income,228.50833333333333,0.0,18,0.0,0,
+598,Papua New Guinea,1,East Asia & Pacific,Lower middle income,0.361448,-0.12524882599487488,24,0.02,0,Off Track
+598,Papua New Guinea,2,East Asia & Pacific,Lower middle income,33.48,0.0,1,0.0,0,
+600,Paraguay,1,Latin America & Caribbean ,Upper middle income,743042.8935550798,32306.211778349647,24,1.0,1,On Track
+600,Paraguay,2,Latin America & Caribbean ,Upper middle income,1.9,-0.020000000000000018,18,0.02,0,Off Track
+604,Peru,1,Latin America & Caribbean ,Upper middle income,726.6964968,31.586765036153743,24,0.98,1,On Track
+604,Peru,2,Latin America & Caribbean ,Upper middle income,84.01875,1.0533333333333317,16,0.99,1,On Track
+608,Philippines,1,East Asia & Pacific,Lower middle income,130576158.63631406,5677224.287198083,24,1.0,1,On Track
+608,Philippines,2,East Asia & Pacific,Lower middle income,54.906666666666666,0.0,6,0.0,0,
+61,Polynesia,1,Unknown,Unknown,0.5335,-0.016217391304347815,24,0.0,0,
+616,Poland,1,Europe & Central Asia,High income,21.05755,-0.56865,14,0.01,0,Off Track
+616,Poland,2,Europe & Central Asia,High income,179.50166666666667,0.0,18,0.0,0,
+62,Central and Southern Asia,1,Unknown,Unknown,12.0,0.0,2,0.0,0,
+62,Central and Southern Asia,2,Unknown,Unknown,37.155,-9.115000000000002,5,0.01,0,Off Track
+620,Portugal,1,Europe & Central Asia,High income,78.477269,3.411898652173913,24,0.99,1,On Track
+620,Portugal,2,Europe & Central Asia,High income,227.96999999999997,0.0,18,0.0,0,
+624,Guinea-Bissau,1,Sub-Saharan Africa ,Low income,2.347632,0.08585191304149918,24,0.97,1,On Track
+624,Guinea-Bissau,2,Sub-Saharan Africa ,Low income,9.781428571428572,0.0,18,0.0,0,
+626,Timor-Leste,1,East Asia & Pacific,Lower middle income,1.790919,-0.09453721782433583,24,0.024,0,Off Track
+626,Timor-Leste,2,East Asia & Pacific,Lower middle income,43.309090909090905,9.547878787878787,7,0.972,1,On Track
+634,Qatar,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,11.4492,0.11586464646464645,19,0.97,1,On Track
+64,Bhutan,1,South Asia,Lower middle income,6.3950845,0.2529584769987193,23,0.9940000000000001,1,On Track
+64,Bhutan,2,South Asia,Lower middle income,16.306666666666665,0.0,1,0.0,0,
+642,Romania,1,Europe & Central Asia,High income,57.66672433348919,-934579.5521152196,20,0.03,0,Off Track
+642,Romania,2,Europe & Central Asia,High income,263.5433333333333,0.0,18,0.0,0,
+643,Russian Federation,1,Europe & Central Asia,High income,64993060.8942189,2954228.7224644944,23,0.99,1,On Track
+643,Russian Federation,2,Europe & Central Asia,High income,,0.0,5,0.01,0,Off Track
+646,Rwanda,1,Sub-Saharan Africa ,Low income,0.887102,-0.012167478258132507,24,0.02,0,Off Track
+646,Rwanda,2,Sub-Saharan Africa ,Low income,32.0,1.9533333333333367,8,0.99,1,On Track
+659,Saint Kitts and Nevis,1,Unknown,Unknown,0.0,-0.0014256666665157052,13,0.02142857142857143,0,Off Track
+660,Anguilla,1,Unknown,Unknown,0.004657,-0.0322886,6,0.0,0,
+662,Saint Lucia,1,Unknown,Unknown,0.017457,-0.0007915652497325351,24,0.05888888888888889,0,Off Track
+670,Saint Vincent and the Grenadines,1,Unknown,Unknown,0.033546,0.0009596194348108168,22,0.9588888888888889,1,On Track
+678,Sao Tome and Principe,1,Sub-Saharan Africa ,Lower middle income,2.299999,-0.16213560869565205,24,0.01,0,Off Track
+678,Sao Tome and Principe,2,Sub-Saharan Africa ,Lower middle income,32.57333333333333,-7.133333333333336,3,0.0,0,
+68,Bolivia (Plurinational State of),1,Unknown,Unknown,0.128273,-1.4689850444677297,24,0.02,0,Off Track
+68,Bolivia (Plurinational State of),2,Unknown,Unknown,87.1,5.703333333333333,7,0.9933333333333334,1,On Track
+682,Saudi Arabia,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0121,0.0007555000000000747,17,0.9814285714285714,1,On Track
+686,Senegal,1,Sub-Saharan Africa ,Lower middle income,0.432613,-0.00038695659339966387,24,0.034,0,Off Track
+686,Senegal,2,Sub-Saharan Africa ,Lower middle income,30.06875,0.0,20,0.01,0,Off Track
+688,Serbia,1,Europe & Central Asia,Upper middle income,164556.16455800988,6856.471010458626,25,1.0,1,On Track
+688,Serbia,2,Europe & Central Asia,Upper middle income,85.67333333333333,7.706666666666649,2,0.99,1,On Track
+690,Seychelles,1,Sub-Saharan Africa ,High income,28.23,1.8816128666665464,16,0.99,1,On Track
+694,Sierra Leone,1,Sub-Saharan Africa ,Low income,2.080648,0.02391404347253617,24,0.92,1,On Track
+694,Sierra Leone,2,Sub-Saharan Africa ,Low income,45.08,-1.3044444444444423,9,0.002,0,Off Track
+70,Bosnia and Herzegovina,1,Europe & Central Asia,Upper middle income,0.099729,-0.01758495652173893,24,0.0014285714285714286,0,Off Track
+702,Singapore,1,East Asia & Pacific,High income,100.0,0.0,1,0.0,0,
+703,Slovakia,1,Unknown,Unknown,15.56204,0.11905473684210521,20,0.99,1,On Track
+703,Slovakia,2,Unknown,Unknown,259.66333333333336,0.0,18,0.0,0,
+704,Viet Nam,1,East Asia & Pacific,Lower middle income,0.017594,-0.014221610222284414,24,0.0,0,
+704,Viet Nam,2,East Asia & Pacific,Lower middle income,88.67,0.0,6,0.01,0,Off Track
+705,Slovenia,1,Europe & Central Asia,High income,13.775,0.5966650882492894,24,0.99,1,On Track
+705,Slovenia,2,Europe & Central Asia,High income,139.085,0.0,18,0.0,0,
+706,Somalia,1,Unknown,Unknown,0.280207,-0.00887447823871575,24,0.0,0,
+706,Somalia,2,Unknown,Unknown,52.7,0.0,6,0.0,0,
+710,South Africa,1,Sub-Saharan Africa ,Upper middle income,0.023316,-0.00034709446634423324,24,0.1,0,Off Track
+710,South Africa,2,Sub-Saharan Africa ,Upper middle income,40.86000000000001,0.0,6,0.002,0,Off Track
+716,Zimbabwe,1,Sub-Saharan Africa ,Lower middle income,0.55706,-0.005367173913188533,24,0.024,0,Off Track
+716,Zimbabwe,2,Sub-Saharan Africa ,Lower middle income,53.57,-1.081666666666666,10,0.0,0,
+72,Botswana,1,Sub-Saharan Africa ,Upper middle income,0.012954,6.034782601800445e-05,24,0.9596103896103895,1,On Track
+72,Botswana,2,Sub-Saharan Africa ,Upper middle income,,0.0,5,0.01,0,Off Track
+722,Small island developing States (SIDS),1,Unknown,Unknown,0.0619,-0.0012695652173913045,24,0.02,0,Off Track
+722,Small island developing States (SIDS),2,Unknown,Unknown,59.38,-6.020000000000003,5,0.0,0,
+724,Spain,1,Europe & Central Asia,High income,25.525,1.0630666666666666,25,1.0,1,On Track
+724,Spain,2,Europe & Central Asia,High income,307.91333333333336,0.0,18,0.0,0,
+728,South Sudan,1,Sub-Saharan Africa ,Low income,7.024619,0.2594257499999863,13,0.95,1,On Track
+729,Sudan,1,Sub-Saharan Africa ,Low income,0.180194,9.317250483968824e-05,24,0.9540000000000001,1,On Track
+729,Sudan,2,Sub-Saharan Africa ,Low income,25.493333333333332,0.0,1,0.0,0,
+740,Suriname,1,Latin America & Caribbean ,Upper middle income,0.233712,0.009434086956521863,24,0.99,1,On Track
+740,Suriname,2,Latin America & Caribbean ,Upper middle income,29.43333333333333,0.0,1,0.0,0,
+747,Northern Africa and Western Asia,1,Unknown,Unknown,15.0,0.0,2,0.0,0,
+747,Northern Africa and Western Asia,2,Unknown,Unknown,56.22,-21.430000000000007,5,0.0,0,
+748,Eswatini,1,Sub-Saharan Africa ,Lower middle income,11027960.469848294,479475.04161583894,24,1.0,1,On Track
+748,Eswatini,2,Sub-Saharan Africa ,Lower middle income,31.579999999999995,-6.313333333333338,3,0.0,0,
+752,Sweden,1,Europe & Central Asia,High income,18.3,0.7610208335237981,25,1.0,1,On Track
+752,Sweden,2,Europe & Central Asia,High income,400.8333333333333,0.0,18,0.0,0,
+753,Eastern and South-Eastern Asia,1,Unknown,Unknown,12.0,0.0,2,0.0,0,
+753,Eastern and South-Eastern Asia,2,Unknown,Unknown,70.525,-14.60499999999999,5,0.01,0,Off Track
+756,Switzerland,1,Europe & Central Asia,High income,0.0331,-0.0004086967395699543,24,0.07,0,Off Track
+756,Switzerland,2,Europe & Central Asia,High income,90.89,0.0,5,0.0,0,
+76,Brazil,1,Latin America & Caribbean ,Upper middle income,0.001469,2.3217391280256495e-05,24,0.9088888888888889,1,On Track
+76,Brazil,2,Latin America & Caribbean ,Upper middle income,110.88,0.0,20,0.01,0,Off Track
+760,Syrian Arab Republic,1,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2.074616,0.08965240908985012,23,0.95,1,On Track
+760,Syrian Arab Republic,2,"Middle East, North Africa, Afghanistan & Pakistan",Low income,31.2,0.0,1,0.0,0,
+762,Tajikistan,1,Europe & Central Asia,Lower middle income,10.569936499999999,0.3060413260935747,24,0.9840000000000001,1,On Track
+762,Tajikistan,2,Europe & Central Asia,Lower middle income,23.700000000000003,-13.593333333333327,7,0.01,0,Off Track
+764,Thailand,1,East Asia & Pacific,Upper middle income,3638.7388575,150.73282770833333,25,1.0,1,On Track
+764,Thailand,2,East Asia & Pacific,Upper middle income,80.31,5.866666666666674,7,0.97,1,On Track
+768,Togo,1,Sub-Saharan Africa ,Low income,1.060976,0.012213304699826497,24,0.98,1,On Track
+768,Togo,2,Sub-Saharan Africa ,Low income,19.34,0.0,20,0.0,0,
+776,Tonga,1,East Asia & Pacific,Upper middle income,50.2091284,2.0129450635927784,23,0.9740000000000001,1,On Track
+776,Tonga,2,East Asia & Pacific,Upper middle income,54.2,0.0,1,0.0,0,
+780,Trinidad and Tobago,1,Latin America & Caribbean ,High income,11858.26184014042,697.5448128906381,18,0.9781818181818182,1,On Track
+780,Trinidad and Tobago,2,Latin America & Caribbean ,High income,46.32666666666667,0.0,1,0.0,0,
+784,United Arab Emirates,1,"Middle East, North Africa, Afghanistan & Pakistan",High income,0.0174,-9448012.61361897,17,0.01,0,Off Track
+788,Tunisia,1,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0.090078,-0.5534937174011677,24,0.02707070707070707,0,Off Track
+788,Tunisia,2,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,90.82,0.0,6,0.013333333333333332,0,Off Track
+792,Türkiye,1,Unknown,Unknown,22.070148333333336,0.9589601003605387,24,0.98,1,On Track
+792,Türkiye,2,Unknown,Unknown,,0.0,5,0.0,0,
+795,Turkmenistan,1,Europe & Central Asia,Upper middle income,0.006092,-0.006509086956521751,24,0.01,0,Off Track
+795,Turkmenistan,2,Europe & Central Asia,Upper middle income,70.39999999999999,-13.693333333333342,2,0.0,0,
+796,Turks and Caicos Islands,1,Latin America & Caribbean ,High income,0.068054,0.013413,5,0.97,1,On Track
+796,Turks and Caicos Islands,2,Latin America & Caribbean ,High income,61.34,0.0,1,0.0,0,
+798,Tuvalu,1,East Asia & Pacific,Upper middle income,1.29903,-1.050907900006314,21,0.013999999999999999,0,Off Track
+798,Tuvalu,2,East Asia & Pacific,Upper middle income,29.833333333333332,0.0,1,0.0,0,
+8,Albania,1,Europe & Central Asia,Upper middle income,27648.527649587202,1151.9816787327484,25,0.99,1,On Track
+8,Albania,2,Europe & Central Asia,Upper middle income,90.98,-11.013333333333335,7,0.013333333333333332,0,Off Track
+800,Uganda,1,Sub-Saharan Africa ,Low income,0.886695,-0.02617104157157566,24,0.01,0,Off Track
+800,Uganda,2,Sub-Saharan Africa ,Low income,8.535,-0.18333333333333268,20,0.0,0,
+804,Ukraine,1,Europe & Central Asia,Upper middle income,327249693.2726414,17811235.106045052,19,0.99,1,On Track
+804,Ukraine,2,Europe & Central Asia,Upper middle income,71.06,0.0,5,0.0,0,
+807,North Macedonia,1,Europe & Central Asia,Upper middle income,0.132593,-0.017061173913043324,24,0.0,0,
+807,North Macedonia,2,Europe & Central Asia,Upper middle income,54.65333333333332,0.0,1,0.0,0,
+818,Egypt,1,Unknown,Unknown,9959.554237825247,433.020434470665,24,1.0,1,On Track
+818,Egypt,2,Unknown,Unknown,44.180625,-10.913333333333334,8,0.0,0,
+826,United Kingdom of Great Britain and Northern Ireland,1,Europe & Central Asia,High income,0.0125,-0.0012826086956520793,24,0.0014285714285714286,0,Off Track
+834,United Republic of Tanzania,1,Unknown,Unknown,1279581.3451189632,55633.18853380275,24,1.0,1,On Track
+834,United Republic of Tanzania,2,Unknown,Unknown,6.186666666666667,0.0,20,0.01,0,Off Track
+84,Belize,1,Latin America & Caribbean ,Upper middle income,26.240000000000002,1.0818326249966048,25,1.0,1,On Track
+84,Belize,2,Latin America & Caribbean ,Upper middle income,59.72666666666667,0.0,1,0.0,0,
+840,United States of America,1,North America,High income,0.0163,2.1701978600543473e-05,24,0.86,1,On Track
+840,United States of America,2,North America,High income,,0.0,5,0.0,0,
+854,Burkina Faso,1,Sub-Saharan Africa ,Low income,1.484423,-0.0160470434687143,24,0.01,0,Off Track
+854,Burkina Faso,2,Sub-Saharan Africa ,Low income,17.5,0.0,20,0.0,0,
+858,Uruguay,1,Latin America & Caribbean ,High income,24.18,1.0074247091930981,25,0.99,1,On Track
+858,Uruguay,2,Latin America & Caribbean ,High income,71.05,0.0,1,0.0,0,
+860,Uzbekistan,1,Europe & Central Asia,Lower middle income,5.528304,0.2365437391897288,24,0.9981818181818182,1,On Track
+860,Uzbekistan,2,Europe & Central Asia,Lower middle income,88.94,0.0,6,0.01,0,Off Track
+862,Venezuela (Bolivarian Republic of),1,Unknown,Unknown,0.023987,-0.944452681928832,23,0.05,0,Off Track
+862,Venezuela (Bolivarian Republic of),2,Unknown,Unknown,63.08,0.0,5,0.0,0,
+882,Samoa,1,East Asia & Pacific,Upper middle income,280378.50800426514,12190.363927185439,24,1.0,1,On Track
+882,Samoa,2,East Asia & Pacific,Upper middle income,20.73333333333333,0.0,1,0.0,0,
+887,Yemen,1,Unknown,Unknown,5212.7254126500375,236.8646669840803,23,0.99,1,On Track
+887,Yemen,2,Unknown,Unknown,23.06,0.0,6,0.0,0,
+894,Zambia,1,Sub-Saharan Africa ,Lower middle income,0.650271,-0.03678991304830403,24,0.004,0,Off Track
+894,Zambia,2,Sub-Saharan Africa ,Lower middle income,40.855000000000004,-2.173333333333332,8,0.022000000000000002,0,Off Track
+9,Oceania,1,Unknown,Unknown,0.1285,-0.023056521739130434,24,0.01,0,Off Track
+9,Oceania,2,Unknown,Unknown,61.3,0.0,5,0.0,0,
+90,Solomon Islands,1,East Asia & Pacific,Lower middle income,1.357178,-0.02162865221844581,24,0.03,0,Off Track
+96,Brunei Darussalam,1,East Asia & Pacific,High income,41.793596666666666,41.74359666666667,2,0.97,1,On Track

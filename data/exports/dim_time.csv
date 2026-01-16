@@ -1,0 +1,26 @@
+year,decade,development_era,is_sdg_baseline,is_sdg_target_year
+2000,2000,MDG Era,False,False
+2001,2000,MDG Era,False,False
+2002,2000,MDG Era,False,False
+2003,2000,MDG Era,False,False
+2004,2000,MDG Era,False,False
+2005,2000,MDG Era,False,False
+2006,2000,MDG Era,False,False
+2007,2000,MDG Era,False,False
+2008,2000,MDG Era,False,False
+2009,2000,MDG Era,False,False
+2010,2010,MDG Era,False,False
+2011,2010,MDG Era,False,False
+2012,2010,MDG Era,False,False
+2013,2010,MDG Era,False,False
+2014,2010,MDG Era,False,False
+2015,2010,SDG Era,True,False
+2016,2010,SDG Era,False,False
+2017,2010,SDG Era,False,False
+2018,2010,SDG Era,False,False
+2019,2010,SDG Era,False,False
+2020,2020,SDG Era,False,False
+2021,2020,SDG Era,False,False
+2022,2020,SDG Era,False,False
+2023,2020,SDG Era,False,False
+2024,2020,SDG Era,False,False
