@@ -269,12 +269,31 @@ Power BI dashboard with interactive visualizations:
 
 ---
 
+## Machine Learning
+
+The project includes an ML pipeline to predict SDG achievement by 2030:
+
+- **Model**: Random Forest Classifier
+- **Features**: Historical progress trends, YoY change, economic indicators
+- **Output**: Probability score and category (On Track, Moderate Progress, At Risk, Off Track)
+
+Run the predictor:
+```bash
+python ml/train_sdg_predictor.py
+```
+
+Predictions are exported to:
+- BigQuery: `staging_marts.ml_sdg_predictions`
+- CSV: `data/exports/ml_sdg_predictions.csv`
+
+---
+
 ## Future Enhancements
 
-- [ ] Add ML predictions for 2030 SDG achievement likelihood
 - [ ] Implement Apache Airflow for scheduled pipeline runs
 - [ ] Add dbt tests for referential integrity
 - [ ] Generate dbt documentation site
+- [ ] Deploy Power BI dashboard to Power BI Service
 
 ---
 
