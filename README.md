@@ -288,16 +288,6 @@ Predictions are exported to:
 
 ---
 
-## Author
-
-**Abeneil Magpantay**  
-Data Engineer | AI Engineer
-
-- GitHub: [@AbeneilMagpantay](https://github.com/AbeneilMagpantay)
-- LinkedIn: [Abeneil Magpantay](https://linkedin.com/in/abeneilmagpantay)
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
