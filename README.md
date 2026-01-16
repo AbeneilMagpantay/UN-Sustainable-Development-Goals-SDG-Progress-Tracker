@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 UN Sustainable Development Goals Progress Tracker
+# UN Sustainable Development Goals Progress Tracker
 
 **An end-to-end data engineering platform tracking global progress toward the United Nations' 17 Sustainable Development Goals across 190+ countries.**
 
@@ -10,17 +10,17 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi)](https://powerbi.microsoft.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[View Dashboard](#-dashboard) • [Architecture](#-architecture) • [Data Model](#-data-model) • [Quick Start](#-quick-start)
+[View Dashboard](#dashboard) • [Architecture](#architecture) • [Data Model](#data-model) • [Quick Start](#quick-start)
 
 </div>
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project demonstrates a complete **Modern Data Stack** implementation, extracting data from official UN and World Bank APIs, transforming it using industry-standard tools, and visualizing global SDG progress through interactive dashboards.
 
-### 🎯 Key Features
+### Key Features
 
 - **17 SDGs tracked** across **190+ countries** with **25 years of historical data** (2000-2024)
 - **Star schema data model** with dimension and fact tables for efficient analytics
@@ -30,7 +30,7 @@ This project demonstrates a complete **Modern Data Stack** implementation, extra
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -69,7 +69,7 @@ This project demonstrates a complete **Modern Data Stack** implementation, extra
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
@@ -82,7 +82,7 @@ This project demonstrates a complete **Modern Data Stack** implementation, extra
 
 ---
 
-## 📊 Data Model
+## Data Model
 
 ### Star Schema Design
 
@@ -121,18 +121,18 @@ This project demonstrates a complete **Modern Data Stack** implementation, extra
 
 | Layer | Table | Rows | Description |
 |-------|-------|------|-------------|
-| **Raw** | `sdg_goals` | 17 | UN Sustainable Development Goals |
-| **Raw** | `sdg_indicator_data` | 100k+ | Indicator measurements |
-| **Raw** | `wb_countries` | 296 | World Bank country metadata |
-| **Mart** | `dim_countries` | 460 | Country dimension with region/income |
-| **Mart** | `dim_goals` | 17 | Goal dimension with categories |
-| **Mart** | `dim_time` | 25 | Time dimension (2000-2024) |
-| **Mart** | `fact_sdg_progress` | 6,800 | SDG progress fact table |
-| **Mart** | `fact_economic_indicators` | 6,600 | Economic indicators fact table |
+| Raw | `sdg_goals` | 17 | UN Sustainable Development Goals |
+| Raw | `sdg_indicator_data` | 100k+ | Indicator measurements |
+| Raw | `wb_countries` | 296 | World Bank country metadata |
+| Mart | `dim_countries` | 460 | Country dimension with region/income |
+| Mart | `dim_goals` | 17 | Goal dimension with categories |
+| Mart | `dim_time` | 25 | Time dimension (2000-2024) |
+| Mart | `fact_sdg_progress` | 6,800 | SDG progress fact table |
+| Mart | `fact_economic_indicators` | 6,600 | Economic indicators fact table |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -198,35 +198,34 @@ python scripts/data_quality_check.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 UN-Sustainable-Development-Goals-SDG-Progress-Tracker/
-├── 📂 scripts/
+├── scripts/
 │   ├── test_apis.py              # API connectivity tests
 │   ├── extract_data.py           # ETL pipeline
 │   ├── export_for_tableau.py     # CSV export for visualization
 │   └── data_quality_check.py     # Data validation
-├── 📂 dbt_sdg/
-│   ├── 📂 models/
-│   │   ├── 📂 staging/           # Cleaned source data
+├── dbt_sdg/
+│   ├── models/
+│   │   ├── staging/              # Cleaned source data
 │   │   │   ├── stg_sdg_goals.sql
 │   │   │   ├── stg_sdg_indicator_data.sql
 │   │   │   ├── stg_wb_countries.sql
 │   │   │   └── stg_wb_indicators.sql
-│   │   ├── 📂 marts/             # Star schema tables
-│   │   │   ├── dim_countries.sql
-│   │   │   ├── dim_goals.sql
-│   │   │   ├── dim_time.sql
-│   │   │   ├── fact_sdg_progress.sql
-│   │   │   └── fact_economic_indicators.sql
-│   │   └── sources.yml
+│   │   └── marts/                # Star schema tables
+│   │       ├── dim_countries.sql
+│   │       ├── dim_goals.sql
+│   │       ├── dim_time.sql
+│   │       ├── fact_sdg_progress.sql
+│   │       └── fact_economic_indicators.sql
 │   ├── dbt_project.yml
 │   └── profiles.yml
-├── 📂 data/
-│   └── 📂 exports/               # CSV exports for visualization
-├── 📂 docs/                      # Documentation
-├── .env.example                  # Environment template
+├── data/
+│   └── exports/                  # CSV exports for visualization
+├── docs/
+├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -234,23 +233,23 @@ UN-Sustainable-Development-Goals-SDG-Progress-Tracker/
 
 ---
 
-## 📈 Data Sources
+## Data Sources
 
 | Source | Description | API Endpoint | Data Points |
 |--------|-------------|--------------|-------------|
-| **UN SDG API** | Official SDG indicators | `unstats.un.org/sdgapi` | 17 goals, 169 targets, 251 indicators |
-| **World Bank API** | Economic indicators | `api.worldbank.org` | GDP, Population, Life expectancy, Literacy |
+| UN SDG API | Official SDG indicators | `unstats.un.org/sdgapi` | 17 goals, 169 targets, 251 indicators |
+| World Bank API | Economic indicators | `api.worldbank.org` | GDP, Population, Life expectancy, Literacy |
 
 ---
 
-## 🧪 Data Quality
+## Data Quality
 
 The pipeline includes automated data quality checks:
 
-- ✅ **Null validation** on key columns
-- ✅ **Row count verification** for all tables
-- ✅ **Coverage analysis** by region and goal
-- ✅ **Sample data inspection**
+- Null validation on key columns
+- Row count verification for all tables
+- Coverage analysis by region and goal
+- Sample data inspection
 
 Run quality checks with:
 ```bash
@@ -259,18 +258,18 @@ python scripts/data_quality_check.py
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
-*Power BI dashboard with interactive visualizations:*
+Power BI dashboard with interactive visualizations:
 
-- 🌍 **World Map**: SDG progress by country (color-coded heatmap)
-- 📈 **Trend Analysis**: Year-over-year progress tracking
-- 📊 **Regional Comparison**: Performance by region and income level
-- 🎯 **Goal Breakdown**: Individual SDG performance metrics
+- **World Map**: SDG progress by country (color-coded heatmap)
+- **Trend Analysis**: Year-over-year progress tracking
+- **Regional Comparison**: Performance by region and income level
+- **Goal Breakdown**: Individual SDG performance metrics
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Add ML predictions for 2030 SDG achievement likelihood
 - [ ] Implement Apache Airflow for scheduled pipeline runs
@@ -279,7 +278,7 @@ python scripts/data_quality_check.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Abeneil Magpantay**  
 Data Engineer | AI Engineer
@@ -289,14 +288,6 @@ Data Engineer | AI Engineer
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you found it helpful!**
-
-</div>
